@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Facebook : [Bích Sơn Nhật](https://www.facebook.com/SonNhat.Profile)
+- Facebook: [Bích Sơn Nhật](https://www.facebook.com/SonNhat.Profile)
 
 - Instagram: [bichsonnhat](https://www.instagram.com/bichsonnhat/)
 
