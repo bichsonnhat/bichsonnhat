@@ -4,6 +4,8 @@
 - Instagram: [bichsonnhat](https://www.instagram.com/bichsonnhat/)
 
 - Codeforces: [ShyWoou](https://codeforces.com/profile/ShyWoou)
+
+- My Resume: [Resume](https://github.com/bichsonnhat/bichsonnhat/blob/main/Resume.pdf)
 <!--
 **bichsonnhat/bichsonnhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
