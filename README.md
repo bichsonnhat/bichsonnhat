@@ -6,6 +6,10 @@
 - Codeforces: [ShyWoou](https://codeforces.com/profile/ShyWoou)
 
 - My Resume: [Resume](https://github.com/bichsonnhat/bichsonnhat/blob/main/Resume.pdf)
+
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bichsonnhat&show_icons=true&locale=en&layout=compact" alt="bichsonnhat"   />
+</p>  
 <!--
 **bichsonnhat/bichsonnhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
